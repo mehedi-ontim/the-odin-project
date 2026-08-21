@@ -1,1 +1,0 @@
-A practice project for introductory HTML
